@@ -1,3 +1,3 @@
 # infix-to-postfix-mips
-Infix expression to Postfix expression and calculation in MARS MIPS simulator
+Infix expression to Postfix expression and calculation in MARS MIPS simulator__
 Computer Architecture Lab ICT K59
